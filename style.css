@@ -75,5 +75,17 @@ nav a:hover::before {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 100%;
+  width: 50%;
+}
+p{
+  text-align: center;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+.map {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
